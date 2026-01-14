@@ -114,7 +114,7 @@ body{
 @media screen and (max-width:576px) {
   
   #hero-section{
-    width: 120%;
+    width: 100%;
     margin: 0 auto;
   }
 
@@ -132,6 +132,7 @@ body{
 
   #hero-section nav ul{
     justify-content: center;
+    gap: 1rem;
   }
 
   /* banner  */
@@ -143,7 +144,7 @@ body{
     }
 
     .banner-content h1 {
-    font-size: 2.5em;
+    font-size: 2.2rem;
     }
 
 }
